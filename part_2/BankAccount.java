@@ -1,4 +1,4 @@
-package task_2;
+package part_2;
 
 public class BankAccount {
 
